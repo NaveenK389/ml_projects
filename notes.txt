@@ -1,0 +1,29 @@
+created a folder on device
+open that folder location with anacoda prompt
+from that navigate to vs code editor
+open terminal in vs code
+create a file named setup.py and requirements.py
+complete the coding part
+
+then create src/components/pipeline/ folders
+
+create init file in src
+
+creating nessecary files
+
+upload these files into github
+
+
+all nessecary files are created for ml project
+
+
+
+####     problem statemen   ###
+data colection 
+data checks to perform
+exploiotry data analysis
+data pre-processing
+model training
+choose best model
+
+
